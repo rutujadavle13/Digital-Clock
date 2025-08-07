@@ -76,6 +76,7 @@
   content: "Sec";
 }
 /* Responsive Fixes */
+/* media query for 600px */
 @media (max-width: 600px) {
   .container {
     height: 120px;
@@ -106,7 +107,7 @@
     bottom: -30px;
   }
 }
-
+/* media query for 400px */
 @media (max-width: 400px) {
   .container {
     height: 100px;
